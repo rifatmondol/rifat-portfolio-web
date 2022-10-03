@@ -38,6 +38,27 @@
     .scrollToTop{
         bottom: 60px;
     }
+
+    .portfolio-description {
+        padding: 35px 25px;
+        margin: 0 15px;
+    }
+    .image-section img {
+        height: 300px;
+    }
+    .text-section h3 {
+        font-size: 30px;
+    }
+    p.d-text {
+        font-size: 18px;
+    }
+    .text-section .cv-section {
+        margin-top: 0;
+    }
+    .portfolio-description span.close {
+        top: -5px;
+        right: -5px;
+    }
 }
 
 
@@ -97,6 +118,28 @@
     }
     img.quote {
         width: 55px;
+    }
+
+
+    .portfolio-description {
+        padding: 15px 20px;
+        margin: 0 15px;
+    }
+    .image-section img {
+        height: auto;
+    }
+    .text-section h3 {
+        font-size: 22px;
+    }
+    p.d-text {
+        font-size: 17px;
+    }
+    .text-section .cv-section {
+        margin-top: 0;
+    }
+    .portfolio-description span.close {
+        top: -5px;
+        right: -5px;
     }
 
 }
@@ -438,6 +481,28 @@
         text-align: center;
         margin: 10px 0px;
     }
+
+
+    .portfolio-description {
+        padding: 15px 20px;
+        margin: 0 15px;
+    }
+    .image-section img {
+        display: none;
+    }
+    .text-section h3 {
+        font-size: 22px;
+    }
+    p.d-text {
+        font-size: 17px;
+    }
+    .text-section .cv-section {
+        margin-top: 0;
+    }
+    .portfolio-description span.close {
+        top: -5px;
+        right: -5px;
+    }
 }
 
 @media (max-width: 575px) {
@@ -742,6 +807,28 @@
     .scrollToTop {
         bottom: 80px;
         right: 30px;
+    }
+
+
+    .portfolio-description {
+        padding: 15px 20px;
+        margin: 0 15px;
+    }
+    .image-section img {
+        display: none;
+    }
+    .text-section h3 {
+        font-size: 22px;
+    }
+    p.d-text {
+        font-size: 17px;
+    }
+    .text-section .cv-section {
+        margin-top: 0;
+    }
+    .portfolio-description span.close {
+        top: -5px;
+        right: -5px;
     }
 
 }
